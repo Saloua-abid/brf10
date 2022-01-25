@@ -1,0 +1,311 @@
+
+[
+    {
+    
+     "ID" : "A",
+     "Désignation" : "Robe blanche courte taille M",
+     "Prix" : 190,
+     "Catégorie" : "Robes",
+     "Disponibilité" : ["Tanger","Tetouan","Casa"],
+     "Fournisseur": {
+         "Reseausocial" : "VT.ChoP",
+         "Adresse" : "Tanger"
+          }
+        
+    },
+    
+    {
+        "ID":"B",
+        "Désignation":"Robe noir longue taille L",
+        "Prix":160,
+        "Catégorie":"Robes",
+        "Disponibilité":["Tanger","Casa"],
+        "Fournisseur":{
+            "Reseausocial" : "VT.ChoP",
+            "Adresse" : "Tanger"
+             }
+           
+       },
+    
+       {
+        "ID":"C",
+        "Désignation":"Robe rouge longue taille L",
+        "Prix":190,
+        "Catégorie":"Robes",
+        "Disponibilité":["Tanger","Tetouan","Casa","Rabat"],
+        "Fournisseur":{
+            "Reseausocial" : "VT.ChoP",
+            "Adresse" : "Tanger"
+             }
+           
+       },
+    
+    
+       {
+        "ID":"D",
+        "Désignation":"Robe bleu courte taille M",
+        "Prix":190,
+        "Catégorie":"Robes",
+        "Disponibilité":["Tanger","Tetouan","Casa"],
+        "Fournisseur":{
+            "Reseausocial" : "VT.ChoP",
+            "Adresse" : "Tanger"
+             }
+           
+       },
+    
+    
+    
+       {
+        "ID":"E",
+        "Désignation":"Robe marron courte taille XL",
+        "Prix":190,
+        "Catégorie":"Robes",
+        "Disponibilité":["Tanger","Rabat","Casa"],
+        "Fournisseur":{
+            "Reseausocial" : "VT.ChoP",
+            "Adresse" : "Tanger"
+             }
+           
+       },
+    
+    
+    
+    
+       {
+        "ID":"F",
+        "Désignation":"Pantalons jeans taille M",
+        "Prix":260,
+        "Catégorie":"Pantalons",
+        "Disponibilité":["Tanger","Tetouan","Taza"],
+        "Fournisseur":{
+            "Reseausocial" : "VT.ChoP",
+            "Adresse" : "Tanger"
+             }
+           
+       },
+    
+    
+    
+    
+       {
+        "ID":"G",
+        "Désignation":"Pantalons cuir noir taille L",           
+        "Prix":250,
+        "Catégorie":"Pantalons",
+        "Disponibilité":["Tanger","Marrakech","Casa"],
+        "Fournisseur":{
+            "Reseausocial" : "VT.ChoP",
+            "Adresse" : "Tanger"
+             }
+           
+       },
+    
+    
+    
+       {
+        "ID":"H",
+        "Désignation":"Pantalons boyfriend taille L",
+        "Prix":150,
+        "Catégorie":"Pantalons",
+        "Disponibilité":["Tanger","Tetouan","Casa"],
+        "Fournisseur":{
+            "Reseausocial" : "VT.ChoP",
+            "Adresse" : "Tanger"
+             }
+           
+       },
+    
+    
+    
+    
+       {
+        "ID":"I",
+        "Désignation":"Pantalons cuir blanche taille S",
+        "Prix":250,
+        "Catégorie":"Pantalons",
+        "Disponibilité":["Tanger","Tetouan","Casa","Marrakech"],
+        "Fournisseur":{
+            "Reseausocial" : "VT.ChoP",
+            "Adresse" : "Tanger"
+             }
+           
+       },
+    
+    
+    
+    
+       {
+        "ID":"J",
+        "Désignation":"Pantalons taille haute",
+        "Prix":260,
+        "Catégorie":"Pantalons",
+        "Disponibilité":["Tanger","Tetouan","Casa"],
+        "Fournisseur":{
+            "Reseausocial" : "VT.ChoP",
+            "Adresse" : "Tanger"
+             }
+           
+       },
+    
+    
+    
+    
+       {
+        "ID":"K",
+        "Désignation":"jupe noir courte taille M",
+        "Prix": 190,
+        "Catégorie":"jupes",
+        "Disponibilité":["Tanger","Tetouan","Casa"],
+        "Fournisseur":{
+            "Reseausocial" : "VT.ChoP",
+            "Adresse" : "Tanger"
+             }
+           
+       },
+    
+    
+    
+       {
+        "ID":"L",
+        "Désignation":"jupe rouge courte taille L",
+        "Prix":190,
+        "Catégorie":"jupes",
+        "Disponibilité":["Tanger","Rabat","Casa"],
+        "Fournisseur":{
+            "Reseausocial" : "VT.ChoP",
+            "Adresse" : "Tanger"
+             }
+           
+       },
+    
+    
+    
+    
+       {
+        "ID":"M",
+        "Désignation":"jupe noir longue taille S",
+        "Prix":250,
+        "Catégorie":"jupes",
+        "Disponibilité":["Tanger","Tetouan"],
+        "Fournisseur":{
+            "Reseausocial" : "VT.ChoP",
+            "Adresse" : "Tanger"
+             }
+           
+       },
+    
+    
+    
+    
+       {
+        "ID":"N",
+        "Désignation":"jupe blanche langue taille M",
+        "Prix":250,
+        "Catégorie":"jupes",
+        "Disponibilité":["Tanger","Tetouan","Casa"],
+        "Fournisseur":{
+            "Reseausocial" : "VT.ChoP",
+            "Adresse" : "Tanger"
+             }
+           
+       },
+    
+    
+    
+       {
+        "ID":"O",
+        "Désignation":"jupe bleu courte taille XL",
+        "Prix":190,
+        "Catégorie":"jupes",
+        "Disponibilité":["Tanger","Tetouan","Taza"],
+        "Fournisseur":{
+            "Reseausocial" : "VT.ChoP",
+            "Adresse" : "Tanger"
+             }
+           
+       },
+    
+    
+    
+       {
+        "ID":"P",
+        "Désignation":"capuche noir taille XL",
+        "Prix":220,
+        "Catégorie":"capuches",
+        "Disponibilité":["Tanger","Rabat","Casa"],
+        "Fournisseur":{
+            "Reseausocial" : "VT.ChoP",
+            "Adresse" : "Tanger"
+             }
+           
+       },
+    
+    
+    
+       {
+        "ID":"Q",
+        "Désignation":"capuche jaune taille L",
+        "Prix":220,
+        "Catégorie":"capuches",
+        "Disponibilité":["Tanger","Tetouan","Casa"],
+        "Fournisseur":{
+            "Reseausocial" : "VT.ChoP",
+            "Adresse" : "Tanger"
+             }
+           
+       },
+    
+    
+    
+       {
+        "ID":"R",
+        "Désignation":"capuche blanche taille S",
+        "Prix":223,
+        "Catégorie":"capuches",
+        "Disponibilité":["Tanger","Tetouan","Casa"],
+        "Fournisseur":{
+            "Reseausocial" : "VT.ChoP",
+            "Adresse" : "Tanger"
+             }
+           
+       },
+    
+    
+    
+       {
+        "ID":"S",
+        "Désignation":"triko vert taille M",
+        "Prix":245,
+        "Catégorie":"triko",
+        "Disponibilité":["Tanger","Tetouan","Casa","Rabat"],
+        "Fournisseur":{
+            "Reseausocial" : "VT.ChoP",
+            "Adresse" : "Tanger"
+             }
+           
+       },
+    
+    
+    
+       {
+        "ID":"T",
+        "Désignation":"triko noir taille L",
+        "Prix":245,
+        "Catégorie":"triko",
+        "Disponibilité":["Tanger","Tetouan","Casa"],
+        "Fournisseur":{
+            "Reseausocial" : "VT.ChoP",
+            "Adresse" : "Tanger"
+             }
+           
+       }
+    
+       
+    
+    
+    ]
+    
+    
+    
+    

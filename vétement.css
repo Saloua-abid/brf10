@@ -1,0 +1,24 @@
+
+* {
+margin: 0%;
+padding: 0%;  
+
+}
+
+nav {
+    background-color: blueviolet;
+    height: 100px;
+    justify-content: center;
+    align-items: center;
+}
+
+
+#input {
+    width: 400px;
+    height: 50px;
+    margin-top: 20px;
+    justify-content: center;
+    
+
+    
+}
